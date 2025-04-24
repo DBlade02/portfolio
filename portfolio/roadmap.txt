@@ -5,3 +5,18 @@ portfolio -> data -> index.ts = experience, projects, skills
 components -> Footer.tsx = get in touch (Gmail.com)
 
 components -> ui -> BentoGrif.tsx = resume link
+
+
+command for git 
+
+1. git status 
+2. git add .
+3. git status
+4. git commit -m " message "
+5. git push origin main
+
+
+command for run application
+1. ls
+2. cd portfolio
+3. npm run dev
