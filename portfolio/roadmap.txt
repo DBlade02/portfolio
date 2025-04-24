@@ -1,0 +1,7 @@
+portfolio -> components -> ui -> skills.tsx - you can chnage your skills
+
+portfolio -> data -> index.ts = experience, projects, skills
+
+components -> Footer.tsx = get in touch (Gmail.com)
+
+components -> ui -> BentoGrif.tsx = resume link
