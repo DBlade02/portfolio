@@ -51,14 +51,14 @@ const Hero = () => {
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
         
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Jagannath ps 
+            Welcome 
           </h2>
           <TypewriterEffect
             className="text-center md:text-5xl lg:text-6xl my-5"
             words={words}
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m jagannath p s, a Web Developer and Open Source Enthusiast.
+            Hi, I&apos;m Aditya Mogre, A Computer Science student passionate about building impactful digital experiences.
           </p>
 
           <a href="#projects" className="cursor-pointer">

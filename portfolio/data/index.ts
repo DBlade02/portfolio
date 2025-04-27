@@ -1,6 +1,6 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    { name: "Resume", link: "https://drive.google.com/file/d/154jAik4Q_HciluYtfJZbBDVVgfrQuIoR/view?usp=drive_link" },
+    { name: "Resume", link: "https://drive.google.com/file/d/1OrxnXHJAo58fHH-9TfFKLYOm8SwWck1B/view?usp=drivesdk" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
     
@@ -209,7 +209,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      href: "https://github.com/jagannath-p-s",
+      href: "https://github.com/DBlade02",
     },
     {
       id: 2,
@@ -219,6 +219,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      href: "https://www.linkedin.com/in/jagannath-ps",
+      href: "https://www.linkedin.com/in/adityamogre/",
     },
   ];

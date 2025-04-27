@@ -4,7 +4,7 @@ portfolio -> data -> index.ts = experience, projects, skills
 
 components -> Footer.tsx = get in touch (Gmail.com)
 
-components -> ui -> BentoGrif.tsx = resume link
+components -> ui -> BentoGrif.tsx = resume link(155)
 
 
 command for git 
